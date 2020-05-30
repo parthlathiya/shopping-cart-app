@@ -1,3 +1,7 @@
+Shopping cart app developed using React.
+
+(https://github.com/roverer/shopping-cart-app/blob/master/ss.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
